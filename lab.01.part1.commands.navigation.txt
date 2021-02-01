@@ -41,7 +41,8 @@ $ ls -l Documents<ENTER>
 Copy and paste the first *two lines* of output below.
 ----------
 
-
+drwx------   3 ang  staff       96 Jun 25  2018 Applications
+drwx------@  5 ang  staff      160 Feb  1 08:59 Creative Cloud Files
 
 
 
@@ -54,7 +55,8 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
-
+.
+..
 
 
 

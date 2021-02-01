@@ -16,7 +16,19 @@ $ ls<ENTER>
 Copy and paste the output of ls below.
 ----------
 
-
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+zoom background 2.jpg
+zoom background 3.jpg
+zoom background.png
 
 
 

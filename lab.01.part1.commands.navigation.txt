@@ -70,7 +70,7 @@ Copy and paste the output below.
 ----------
 
 
-
+ls: doesnotexist: No such file or directory
 
 
 
@@ -79,7 +79,7 @@ Copy and paste the output below.
 ----------
 
 
-
+Press the up arrow on my keyboard. 
 
 
 
@@ -88,7 +88,8 @@ Copy and paste the output below.
 ----------
 
 
-
+-l (list the long form of all the files)
+-a (lists all files including hidden ones)
 
 
 
@@ -97,7 +98,7 @@ Copy and paste the output below.
 ----------
 
 
-
+ls (list all the files)
 
 
 
@@ -105,8 +106,8 @@ Copy and paste the output below.
 8.  What's one an argument that we've so far passed to a command?
 ----------
 
-
-
+doesnotexist 
+Documents
 
 
 
@@ -118,7 +119,7 @@ $ foo<ENTER>
 Copy and paste the output below.
 ----------
 
-
+-bash: foo: command not found
 
 
 
@@ -132,7 +133,7 @@ Copy and paste the output below.
 ----------
 
 
-
+-bash: foo: command not found
 
 
 
@@ -144,8 +145,10 @@ $ ls -a Desktop
 Identify the command, flag, argument, and prompt:
 ----------
 
-
-
+command: ls
+option/flag: -a
+argument: Desktop
+prompt: $ (prompt = the symbol that tells you the computer is not currently running a command and is ready for your "input")
 
 
 Lab 1 / Part 2 - Navigating the File System

@@ -260,7 +260,8 @@ Copy and paste the output of your this below.
 ----------
 
 
-
+stuff.tar.gz
+stuff.tar
 
 
 ==========
@@ -271,6 +272,6 @@ $ tar -xvf stuff.tar.gz
 List the files.  Copy and paste the output below (the folder, stuff, should be there).
 ----------
 
-
+x stuff/
 
 

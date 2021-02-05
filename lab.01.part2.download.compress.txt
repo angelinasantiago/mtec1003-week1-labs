@@ -190,9 +190,10 @@ Finally, write the output of the command below.
 ----------
 
 
-
-
-
+curl -o MTEC1003-my-flashcards.zip http://einbahnstrasse.github.io/Goldford-MTEC1003-OL78/labs/01/my-flashcards.zip
+ % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   162  100   162    0     0   2314      0 --:--:-- --:--:-- --:--:--  2314
 
 
 
@@ -204,8 +205,7 @@ List the contents of your home directory to prove that the directory was created
 Copy and paste the output below.
 ----------
 
-
-
+No output 
 
 ==========
 13. Change into the "stuff" directory that you just created.
@@ -219,6 +219,7 @@ List the files in the directory you're currently in (which should be stuff).
 Copy and paste the output below.
 ----------
 
+No output
 
 
 ==========
@@ -232,7 +233,7 @@ List the files in the directory you're currently in (which should be home).
 Copy and paste the output below.
 ----------
 
-
+a stuff
 
 
 ==========
@@ -245,7 +246,7 @@ Copy and paste the output below.
 ----------
 
 
-
+a stuff
 
 
 
@@ -269,3 +270,7 @@ $ tar -xvf stuff.tar.gz
 
 List the files.  Copy and paste the output below (the folder, stuff, should be there).
 ----------
+
+
+
+

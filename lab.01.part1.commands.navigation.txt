@@ -488,7 +488,7 @@ What command did you use?
 ----------
 
 
-
+cd ../..
 
 
 
@@ -497,8 +497,7 @@ What command did you use?
 ----------
 
 
-
-
+rmdir
 
 
 ==========
@@ -506,8 +505,6 @@ What command did you use?
 ----------
 
 pwd
-
-
 
 
 ==========
@@ -523,7 +520,7 @@ pwd
 39. What's the shortcut for home directory?
 ----------
 
-cd
+cd mtec1003
 
 
 ==========
@@ -547,6 +544,6 @@ A DIRECTORY is a cataloging structure on a file system that references other fil
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
 
-
+cd/Volumes/Downloads
 
 

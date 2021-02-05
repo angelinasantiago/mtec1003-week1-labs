@@ -16,6 +16,21 @@ $ ls<ENTER>
 Copy and paste the output of ls below.
 ----------
 
+.
+..
+.CFUserTextEncoding
+.DS_Store
+.Trash
+.adobe
+.android
+.atom
+.bash_history
+.bash_profile
+.bash_sessions
+.cups
+.idlerc
+.oracle_jre_usage
+.wacom
 Applications
 Creative Cloud Files
 Desktop
@@ -29,8 +44,6 @@ Public
 zoom background 2.jpg
 zoom background 3.jpg
 zoom background.png
-
-
 
 
 ==========
@@ -260,7 +273,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/ang/mtec1003/foo/bar
 
 
 
@@ -274,7 +287,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/ang/mtec1003/foo/bar/baz/qux
 
 
 
@@ -289,7 +302,7 @@ Copy and paste the output below.
 ----------
 
 
-
+/Users/ang/mtec1003
 
 
 
@@ -303,8 +316,9 @@ $ ls -l
 Copy and paste the first 3 lines from the output into the space below.
 ----------
 
-
-
+total 0
+drwxr-xr-x  3 ang  staff  96 Feb  1 16:59 foo
+drwxr-xr-x  2 ang  staff  64 Feb  1 16:58 food
 
 
 
@@ -318,7 +332,7 @@ Copy and paste the output into the space below.
 ----------
 
 
-
+/Users/ang
 
 
 

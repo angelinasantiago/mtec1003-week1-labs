@@ -446,13 +446,13 @@ mkdir aardvark
 What is the modified date of the aardvark directory?
 ----------
 
-aardvark
-foo
-food
-lemon
-orange
-pineapple
-strawberry
+drwxr-xr-x  2 ang  staff  64 Feb  5 12:13 aardvark
+drwxr-xr-x  2 ang  staff  64 Feb  5 12:11 lemon
+drwxr-xr-x  2 ang  staff  64 Feb  5 12:11 strawberry
+drwxr-xr-x  2 ang  staff  64 Feb  5 12:11 orange
+drwxr-xr-x  2 ang  staff  64 Feb  5 12:11 pineapple
+drwxr-xr-x  3 ang  staff  96 Feb  1 16:59 foo
+drwxr-xr-x  2 ang  staff  64 Feb  1 16:58 food
 
 
 
@@ -466,8 +466,7 @@ strawberry
 What command did you use?
 ----------
 
-
-
+mkdir foo/bar/baz
 
 
 
@@ -478,7 +477,7 @@ What command did you use?
 ----------
 
 
-
+cd foo/bar/baz
 
 
 
@@ -506,7 +505,7 @@ What command did you use?
 37. What command is used to print out your current working directory?
 ----------
 
-
+pwd
 
 
 
@@ -516,7 +515,7 @@ What command did you use?
 ----------
 
 
-
+-a 
 
 
 
@@ -524,9 +523,7 @@ What command did you use?
 39. What's the shortcut for home directory?
 ----------
 
-
-
-
+cd
 
 
 ==========
@@ -534,7 +531,7 @@ What command did you use?
 ----------
 
 
-
+A PATHNAME is the general form of the name of a file or directory; it specifies a unique location in a file system. 
 
 
 
@@ -543,10 +540,13 @@ What command did you use?
 ----------
 
 
-
-
+A DIRECTORY is a cataloging structure on a file system that references other files and directories. 
 
 
 ==========
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+
+
+
+

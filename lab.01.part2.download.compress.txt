@@ -196,7 +196,6 @@ Finally, write the output of the command below.
 
 
 
-
 ==========
 12. Go back up to your home directory.
 Create a directory called stuff.

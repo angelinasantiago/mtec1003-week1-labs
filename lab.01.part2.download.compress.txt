@@ -76,7 +76,7 @@ $ echo hello there
 Copy and paste the output below.
 ----------
 
-
+hello there
 
 
 ==========
@@ -87,7 +87,7 @@ $ echo whoa
 Copy and paste the output below.
 ----------
 
-
+whoa
 
 ==========
 3. Type:
@@ -97,14 +97,13 @@ $ echo good mornin'
 Copy and paste the output below.
 ----------
 
-
+no output
 
 ==========
 4. Uh-oh... we're stuck!
 
 Type [CTRL + C] to get your prompt back.
 ----------
-
 
 
 ==========
@@ -115,7 +114,7 @@ $ echo "good mornin'"
 Copy and paste the output below.
 ----------
 
-
+good mornin'
 
 ==========
 6. There are some other symbols that have special meanings if you don't quote them.
@@ -126,7 +125,7 @@ $ echo *
 What happens?
 ----------
 
-
+Applications Creative Cloud Files Desktop Documents Downloads Library Movies Music Pictures Public chanel.jpg city scape.jpg fashion.jpg heart cloud.jpg heart necklace.jpg helmet.jpg lemon mountain valley .jpg mtec1003 nowhere.jpg orange people_sitting_on_a_bus.jpg pineapple strawberry subway.jpg zoom background 2.jpg zoom background 3.jpg zoom background.png
 
 
 ==========

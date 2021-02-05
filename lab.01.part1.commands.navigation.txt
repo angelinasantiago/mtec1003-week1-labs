@@ -393,7 +393,8 @@ MacBook-Air.home
 28. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+ls
+pwd
 
 
 
@@ -401,7 +402,7 @@ MacBook-Air.home
 ==========
 29. If you're not in the right directory, type the following command:
 
-cd ~/mtec1002
+cd ~/mtec1003
 
 Otherwise skip this question/step!
 ----------
@@ -424,8 +425,7 @@ lemon
 Write the one command you used below:
 ----------
 
-
-
+mkdir {pineapple,orange,strawberry,lemon}
 
 
 
@@ -436,7 +436,7 @@ Write the command you used to create the directory below:
 ----------
 
 
-
+mkdir aardvark
 
 
 
@@ -446,8 +446,13 @@ Write the command you used to create the directory below:
 What is the modified date of the aardvark directory?
 ----------
 
-
-
+aardvark
+foo
+food
+lemon
+orange
+pineapple
+strawberry
 
 
 

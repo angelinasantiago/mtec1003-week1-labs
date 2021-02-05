@@ -425,7 +425,7 @@ lemon
 Write the one command you used below:
 ----------
 
-mkdir {pineapple,orange,strawberry,lemon}
+mkdir -p pineapple/orange/strawberry/lemon
 
 
 

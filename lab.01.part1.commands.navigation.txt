@@ -537,7 +537,7 @@ A PATHNAME is the general form of the name of a file or directory; it specifies 
 ----------
 
 
-A DIRECTORY is a cataloging structure on a file system that references other files and directories. 
+A DIRECTORY is a cataloging structure on a file system that references other files and directories.
 
 
 ==========

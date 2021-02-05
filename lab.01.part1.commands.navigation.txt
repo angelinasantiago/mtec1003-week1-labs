@@ -346,7 +346,7 @@ Copy and paste the output into the space below.
 ----------
 
 
-
+/Volumes
 
 
 
@@ -360,21 +360,20 @@ Copy and paste the output into the space below.
 ----------
 
 
-
+/Volumes
 
 
 
 ==========
 26. Type:
 
-$ cd ~/mtec1002
+$ cd ~/mtec1003
 $ pwd
 
 Copy and paste the output into the space below.
 ----------
 
-
-
+/Users/ang/mtec1003
 
 
 
@@ -387,12 +386,11 @@ Copy and paste the output into the space below.
 ----------
 
 
-
-
+MacBook-Air.home
 
 
 ==========
-28. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
+28. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
 

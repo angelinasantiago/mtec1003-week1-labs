@@ -41,9 +41,6 @@ Movies
 Music
 Pictures
 Public
-zoom background 2.jpg
-zoom background 3.jpg
-zoom background.png
 
 
 ==========
